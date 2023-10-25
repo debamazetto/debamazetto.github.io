@@ -20,13 +20,13 @@
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
-title: Debora Mazetto
-author: Debora Mazetto
+title: D;ebora Mazetto
+author: D;ebora Mazetto
 email: debora.mazetto@uga.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Ph.D. Candidate at University of Georgia.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://debora.mazetto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.deboramazetto.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DeboraMazetto
 github_username:  debamazetto
 
