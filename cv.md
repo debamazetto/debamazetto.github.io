@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-[Link to CV](../files/CV_DeboraMazetto.pdf)
+[Curriculum Vitae](../files/CV_DeboraMazetto.pdf)
