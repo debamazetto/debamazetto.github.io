@@ -6,16 +6,16 @@ permalink: /research/
 
 ## Working Papers
 
-* [Difference in Differences with Time Varying Covariates](https://arxiv.org/abs/2202.02903) (with [Brantly Callaway](https://bcallaway11.github.io/), Carolina Caetano, and Stroud Payne)
+* ["The Effect of TV Watching on Children’s Skills"](https://drive.google.com/file/d/1WTgJYkGxKmn1eOdglaFLwrb7aTF0LqDt/view?usp=drive_link) (job market paper)
 
-* [The Effects of the Venezuelan Refugee Crisis on the Brazilian Labor Market](https://arxiv.org/abs/2302.04201) (with [Samyam Shrestha](https://sites.google.com/view/shsamyam/home))
+## Work in Progress
 
-## Contributions
+* "The Effect of Video Games on Children’s Skills", with [Gregorio Caetano](http://www.gregoriocaetano.net/), [Meghan Skira](https://sites.google.com/view/meghanskira), and Isabella Yerby
 
-* [R coding in Scott Cunningham's Causal Inference: The Mixtape](https://mixtape.scunning.com/) (with Terry Tsai)
+* "Assessing the Impact of Physicians on Health: The More Doctors Program and the Exit of Cuban Doctors in Brazil"
 
-## Master Thesis
+## Publications
 
-* [A Difference-in-Differences Approach to the UPP Policy and Crime Displacement in Rio](https://baylor-ir.tdl.org/bitstream/handle/2104/11007/Hugo_Rodrigues_Thesis.pdf?sequence=3)
+* ["Assessing the Impact of More Doctors' Program on Healthcare Indicators in Brazil"](https://www.sciencedirect.com/science/article/pii/S0305750X19302116?via%3Dihub), with [Enlinson Mattos](https://sites.google.com/site/enlinsonmattos/), World Development 123 (2019) 104617
 
 
