@@ -8,7 +8,7 @@ author: Debora Mazetto
 
 <table style="width: 100%;">
   <tr>
-	<td style="width: 90%; border-bottom:0px;"><h1>D\`{e}bora Mazetto</h1></td>
+	<td style="width: 90%; border-bottom:0px;"><h1>Debora Mazetto</h1></td>
 	<td style="width: 10%; border-bottom:0px;"><img src="assets/images/uga-logo.png"/></td>
   </tr>
 </table>
