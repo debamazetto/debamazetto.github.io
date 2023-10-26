@@ -10,7 +10,7 @@ permalink: /research/
 
 ## Work in Progress
 
-* "The Effect of Video Games on Children’s Skills", with [Gregorio Caetano](http://www.gregoriocaetano.net/), [Meghan Skira](https://sites.google.com/view/meghanskira), and Isabella Yerby
+* "The Effect of Video Games on Children’s Skills", with [Gregorio Caetano](http://www.gregoriocaetano.net/), [Meghan Skira](https://sites.google.com/view/meghanskira), [Carolina Caetano](http://www.carolinacaetano.net/), and Isabella Yerby
 
 * "Assessing the Impact of Physicians on Health: The More Doctors Program and the Exit of Cuban Doctors in Brazil"
 
