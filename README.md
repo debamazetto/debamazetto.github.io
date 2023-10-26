@@ -1,3 +1,3 @@
-# debamazetto.github.io
+# deboramazetto.org
 
 My personal website.
