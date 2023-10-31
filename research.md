@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Working Papers
 
-* ["The Effect of TV Watching on Children’s Skills"](https://drive.google.com/file/d/1WTgJYkGxKmn1eOdglaFLwrb7aTF0LqDt/view?usp=drive_link) (job market paper)
+* "The Effect of TV Watching on Children’s Skills" (job market paper)
 
 ## Work in Progress
 
