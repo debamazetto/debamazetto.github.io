@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ## Instructor of Record
 
-* Principles of Microeconomics, University of Georgia, Summer 2022, Spring 2023 
+* Principles of Microeconomics, University of Georgia, Summer 2022, Spring 2023 [Teaching Evaluations](https://drive.google.com/file/d/11MBZnpvhWW2jBiIyE78JiVsDVnPpiZvN/view?usp=sharing)
 
 ## Teaching Assistant
 
